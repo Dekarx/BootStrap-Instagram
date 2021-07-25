@@ -1,0 +1,51 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.boyut {
+    width: 25px;
+}
+
+.kaldır {
+    list-style-type: none;
+    padding-left: 0;
+
+}
+
+/* .kaydır {
+
+    margin-left: 25px;
+
+}
+
+.kaydır2 {
+    margin-left: 130px;
+} */
+
+.boyutgönderi {
+    width: 20px;
+}
+
+#kaydır{
+    height: 0px;
+    position: relative;
+    bottom: 32px;
+}
+
+.renk {
+    background-color: rgb(239, 239, 240);
+}
+
+.yazıboyutu{
+    font-size: 10px;
+}
+
+.beyaz {
+    background-color: white;
+    padding-top: 15px;
+}
+
+.boyuthikaye {
+    width: 40px;
+}
+
